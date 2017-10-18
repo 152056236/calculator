@@ -1,0 +1,5 @@
+C:\Users\qi\Documents\Visual Studio 2010\Projects\cal_eaquals\cal_eaquals\bin\Debug\cal_eaquals.exe
+C:\Users\qi\Documents\Visual Studio 2010\Projects\cal_eaquals\cal_eaquals\bin\Debug\cal_eaquals.pdb
+C:\Users\qi\Documents\Visual Studio 2010\Projects\cal_eaquals\cal_eaquals\obj\x86\Debug\cal_eaquals.exe
+C:\Users\qi\Documents\Visual Studio 2010\Projects\cal_eaquals\cal_eaquals\obj\x86\Debug\cal_eaquals.pdb
+C:\Users\qi\Documents\Visual Studio 2010\Projects\cal_eaquals\cal_eaquals\obj\x86\Debug\cal_eaquals.csprojResolveAssemblyReference.cache
